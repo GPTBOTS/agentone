@@ -21,7 +21,7 @@ It bridges the gap between web content and intelligent assistance, dramatically 
 - Select any text on web pages to interact with your AI agent
 - Context-aware assistance based on selected content
 
-### 🎯 **Side Panel Interface
+### 🎯 Side Panel Interface
 
 - Elegant sidebar design for easy access
 - Chat interface for natural conversations with AI agents
